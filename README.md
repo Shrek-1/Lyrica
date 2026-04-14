@@ -1,0 +1,2 @@
+# Lyrica
+for spotify lyricx
